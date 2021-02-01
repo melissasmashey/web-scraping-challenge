@@ -12,7 +12,7 @@ Mission to Mars Folder:
 
 4)Templates folder
 
-  a)html file(index)
+    a)html file(index)
   
   
 Screenshots Folder:
